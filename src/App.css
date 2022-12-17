@@ -1,0 +1,10 @@
+.container {
+  width: 1320px;
+  padding: 0 15px;
+  margin: auto;
+}
+.my-shop .container .products .heading .product-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,30 @@
+header {
+    .container {
+        width: 1320px;
+        padding: 0 15px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .nav{
+            input {
+                font-size: 18px;
+                margin: 0 10px;
+            }
+            button {
+                font-size: 18px;
+                outline: none;
+            }
+        } 
+    }
+    ul {
+        margin: auto;
+        width: 1320px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        li {
+            list-style: none;
+        }
+    }
+}
